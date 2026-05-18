@@ -25,6 +25,8 @@ A collection of my graphic design projects made with Figma and Canva.
 - **Tools used:** Canva
 - **Style:** Minimal theme
 - **Skills applied:** Typography, color theory, alignment
+
+  
 ![PERSONAL DEMO BRAND](./<img width="500" height="500" alt="JZ" src="https://github.com/user-attachments/assets/fb76cc17-06b8-4882-9da2-34dafb5f8d33" />
 )
 
